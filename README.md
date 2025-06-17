@@ -23,6 +23,7 @@
       height: auto;
       border-radius: 10px;
       box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+      cursor: pointer;
     }
 
     h1 {
@@ -96,13 +97,16 @@
 </head>
 <body>
   <div id="popupWarning">
-    <strong>⚠️ Important Notice:</strong>  
-    It seems that your browser has blocked pop-up windows.  
-    We use <strong>non-intrusive ads</strong> to keep our content free and accessible.<br><br>
+    <strong>⚠️ Important Notice:</strong><br>
+    It seems your browser has blocked pop-up windows.  
+    We use <strong>non-intrusive ads</strong> to support our free content.<br><br>
     👉 Please enable pop-ups or open this page in a standard browser to continue.
   </div>
 
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrvueXJp12Nlxy9MKp7W23JH5lE2GLsihc7EnZW2CLfJ-OUhdZB8j-qsgbUbdg8nn2aC7Oq_0ZABGEqJ3_BI85OprJQVSHGbw7Mfh6E10LatwMRCQfVKxyCt2jh2B8mT0DMJpIbAqmVjn7xm-EIWI_CXdgcN5PiiKRHG10QQuwJhEkg6XraWzsJVpFzu0/s300/Banner%20Firstrade.gif" alt="Crypto Banner" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrvueXJp12Nlxy9MKp7W23JH5lE2GLsihc7EnZW2CLfJ-OUhdZB8j-qsgbUbdg8nn2aC7Oq_0ZABGEqJ3_BI85OprJQVSHGbw7Mfh6E10LatwMRCQfVKxyCt2jh2B8mT0DMJpIbAqmVjn7xm-EIWI_CXdgcN5PiiKRHG10QQuwJhEkg6XraWzsJVpFzu0/s300/Banner%20Firstrade.gif"
+       alt="Crypto Banner"
+       onclick="openAllLinks()" />
+
   <h1>Redirecting... Please wait</h1>
 </body>
 </html>
