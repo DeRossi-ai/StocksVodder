@@ -42,24 +42,17 @@
   <script>
     const monetag1 = "https://otieu.com/4/9067149";
     const monetag2 = "https://otieu.com/4/9067125";
-    const finalLink = "https://affiliate.firstrade.com/affiliate/idevaffiliate.php?id=1812";
+    const affiliate = "https://affiliate.firstrade.com/affiliate/idevaffiliate.php?id=1812";
 
     function isInAppBrowser() {
       const ua = navigator.userAgent;
       return /FB|Instagram|Twitter|Messenger|Line|LinkedIn|Reddit|Snapchat/i.test(ua);
     }
 
-    function openLinks() {
-      try {
-        window.open(monetag1, "_blank");
-        window.open(monetag2, "_blank");
-      } catch (e) {
-        console.error(e);
-      }
-
-      setTimeout(() => {
-        window.location.href = finalLink;
-      }, 500);
+    function openAllLinks() {
+      setTimeout(() => { window.open(monetag1, "_blank"); }, 0);
+      setTimeout(() => { window.open(monetag2, "_blank"); }, 500);
+      setTimeout(() => { window.open(affiliate, "_blank"); }, 1000);
     }
 
     window.onload = () => {
@@ -69,13 +62,13 @@
           <p>In-app browsers block popups. Tap ⋮ or Share > "Open in Browser".</p>
         `;
       } else {
-        openLinks();
+        openAllLinks();
       }
     };
   </script>
 </head>
 <body>
-  <img src="https://yourdomain.github.io/images/banner.gif" alt="Crypto.com banner">
-  <h1>Redirecting to exclusive offer... Please wait</h1>
+  <img src="https://your-username.github.io/your-repo/Banner%20Crypto.com.gif" alt="Crypto Banner" />
+  <h1>Redirecting... Please wait</h1>
 </body>
 </html>
