@@ -1,5 +1,6 @@
 <html lang="en">
 <head>
+  <link rel="icon" type="image/png" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGqybsASMSGCtOqmDPMGy4zyPkxdgC2KrBdRShpfD_9hyphenhyphenUrl-SRzZDiOWjX__f6dkgHQTnN2c87eD2yEpYxxDE9zGOvDxm2GOCdcFgITLHp7EBf_JOYN_nk1vJcCe4rgUGzvYC45tqNejcp8ZgdlkO2BLNtsKGtbSaqn8emc52n2L_Hf9U4bLAIo-Qwk/s1080/9-Photoroom.png">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>StocksVodder</title>
