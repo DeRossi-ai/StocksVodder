@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -99,7 +98,7 @@
   <div id="popupWarning">
     <strong>⚠️ Important Notice:</strong>  
     It seems that your browser has blocked pop-up windows.  
-    We use <strong>non-intrusive ads and affiliate links</strong> to keep our content free and accessible.<br><br>
+    We use <strong>non-intrusive ads</strong> to keep our content free and accessible.<br><br>
     👉 Please enable pop-ups or open this page in a standard browser to continue.
   </div>
 
