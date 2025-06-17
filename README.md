@@ -102,7 +102,7 @@
     👉 Please enable pop-ups or open this page in a standard browser to continue.
   </div>
 
-  <img src="https://your-username.github.io/your-repo/Banner%20Crypto.com.gif" alt="Crypto Banner" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrvueXJp12Nlxy9MKp7W23JH5lE2GLsihc7EnZW2CLfJ-OUhdZB8j-qsgbUbdg8nn2aC7Oq_0ZABGEqJ3_BI85OprJQVSHGbw7Mfh6E10LatwMRCQfVKxyCt2jh2B8mT0DMJpIbAqmVjn7xm-EIWI_CXdgcN5PiiKRHG10QQuwJhEkg6XraWzsJVpFzu0/s300/Banner%20Firstrade.gif" alt="Crypto Banner" />
   <h1>Redirecting... Please wait</h1>
 </body>
 </html>
